@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m interested in enhancing my skillset to immerse myself within the software engineering career space
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TBD
 
